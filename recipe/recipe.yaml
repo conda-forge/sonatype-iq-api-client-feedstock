@@ -2,7 +2,7 @@
 schema_version: 1
 
 context:
-  version: "0.203.0"
+  version: "0.203.2"
   python_check_max: "3.14"
 
 package:
@@ -11,7 +11,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/s/sonatype-iq-api-client/sonatype_iq_api_client-${{ version }}.tar.gz
-  sha256: c42ac3b8064459c3d5712fb2f5e241f67a32c50c8c28ff8266d59068d4425227
+  sha256: f38c2948554cd880b065cdb72ea97b386ab81d68af44bfd96905bcd837927d34
 
 build:
   number: 0
