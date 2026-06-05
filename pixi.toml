@@ -5,7 +5,7 @@
 
 [workspace]
 name = "sonatype-iq-api-client-feedstock"
-version = "3.62.0"  # conda-smithy version used to generate this file
+version = "2026.5.29"  # conda-smithy version used to generate this file
 description = "Pixi configuration for conda-forge/sonatype-iq-api-client-feedstock"
 authors = ["@conda-forge/sonatype-iq-api-client"]
 channels = ["conda-forge"]
